@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-02-29-dissertation
 excerpt:
 date: 2016-02-29
-venue: 'Florida State University (dissertation)''
+venue: 'Florida State University (dissertation)'
 paperurl: 'http://purl.flvc.org/fsu/fd/FSU_2016SP_Hodgkins_fsu_0071E_13057'
 citation: '<b>Hodgkins, S. B.</b> (2016). Changes in organic matter chemistry and methanogenesis due to permafrost thaw in a subarctic peatland (Dissertation). The Florida State University, Tallahassee, FL.'
 ---
