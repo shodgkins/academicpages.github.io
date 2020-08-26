@@ -1,7 +1,7 @@
 ---
 title: "Genome-centric view of carbon processing in thawing permafrost"
 collection: publications
-permalink: /publication/2018-07-16-genome-centric-carbon-processing
+permalink: /publication/0-2018-07-16-genome-centric-carbon-processing
 excerpt:
 date: 2018-07-16
 venue: 'Nature'

@@ -1,7 +1,7 @@
 ---
 title: "Microbial community analyses inform geochemical reaction network models for predicting pathways of greenhouse gas production"
 collection: publications
-permalink: /publication/2019-3-29-microbial-reaction-models
+permalink: /publication/0-2019-3-29-microbial-reaction-models
 excerpt:
 date: 2019-3-29
 venue: 'Frontiers in Earth Science'

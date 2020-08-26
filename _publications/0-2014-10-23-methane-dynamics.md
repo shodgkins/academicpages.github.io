@@ -1,7 +1,7 @@
 ---
 title: "Methane dynamics regulated by microbial community response to permafrost thaw"
 collection: publications
-permalink: /publication/2014-10-23-methane-dynamics
+permalink: /publication/0-2014-10-23-methane-dynamics
 excerpt:
 date: 2014-10-23
 venue: 'Nature'

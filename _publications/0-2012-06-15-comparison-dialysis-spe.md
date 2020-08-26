@@ -1,7 +1,7 @@
 ---
 title: "Comparison of dialysis and solid-phase extraction for isolation and concentration of dissolved organic matter prior to Fourier transform ion cyclotron resonance mass spectrometry"
 collection: publications
-permalink: /publication/2012-06-15-comparison-dialysis-spe
+permalink: /publication/0-2012-06-15-comparison-dialysis-spe
 excerpt:
 date: 2012-06-15
 venue: 'Analytical and Bioanalytical Chemistry'

@@ -1,7 +1,7 @@
 ---
 title: "Microbial network, phylogenetic diversity and community membership in the active layer across a permafrost thaw gradient"
 collection: publications
-permalink: /publication/2017-06-02-microbial-network-diversity
+permalink: /publication/0-2017-06-02-microbial-network-diversity
 excerpt:
 date: 2017-06-02
 venue: 'Environmental Microbiology'

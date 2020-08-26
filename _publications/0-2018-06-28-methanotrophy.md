@@ -1,7 +1,7 @@
 ---
 title: "Methanotrophy across a natural permafrost thaw environment"
 collection: publications
-permalink: /publication/2018-06-28-methanotrophy
+permalink: /publication/0-2018-06-28-methanotrophy
 excerpt:
 date: 2018-06-28
 venue: 'The ISME Journal'

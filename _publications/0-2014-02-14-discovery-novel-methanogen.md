@@ -1,7 +1,7 @@
 ---
 title: "Discovery of a novel methanogen prevalent in thawing permafrost"
 collection: publications
-permalink: /publication/2014-02-14-discovery-novel-methanogen
+permalink: /publication/0-2014-02-14-discovery-novel-methanogen
 excerpt:
 date: 2014-02-14
 venue: 'Nature Communications'

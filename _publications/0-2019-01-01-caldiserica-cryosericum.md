@@ -1,7 +1,7 @@
 ---
 title: "Discovery and ecogenomic context of a global Caldiserica-related phylum active in thawing permafrost, <i>Candidatus</i> Cryosericota phylum nov., <i>Ca.</i> Cryosericia class nov., <i>Ca.</i> Cryosericales ord. nov., Ca. Cryosericaceae fam. nov., comprising the four species Cryosericum septentrionale gen. nov. sp. nov., <i>Ca.</i> C. hinesii sp. nov., <i>Ca.</i> C. odellii sp. nov., <i>Ca.</i> C. terrychapinii sp. nov."
 collection: publications
-permalink: /publication/2019-01-01-caldiserica-cryosericum
+permalink: /publication/0-2019-01-01-caldiserica-cryosericum
 excerpt:
 date: 2019-01-01
 venue: 'Systematic and Applied Microbiology'

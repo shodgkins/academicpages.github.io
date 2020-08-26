@@ -1,7 +1,7 @@
 ---
 title: "Host-linked soil viral ecology along a permafrost thaw gradient"
 collection: publications
-permalink: /publication/2018-07-16-host-linked-viral-ecology
+permalink: /publication/0-2018-07-16-host-linked-viral-ecology
 excerpt:
 date: 2018-07-16
 venue: 'Nature Microbiology'
