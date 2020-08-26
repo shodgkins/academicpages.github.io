@@ -58,6 +58,8 @@
       <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% elsif post.websiteurl %}
+      <p>Website: <a href=" {{ post.websiteurl }} ">{{ post.websiteurl }}</a></p>
     {% endif %}
 
   </article>
