@@ -3,7 +3,7 @@ title: "Microbial community analyses inform geochemical reaction network models 
 collection: publications
 permalink: /publication/0-2019-03-29-microbial-reaction-models
 excerpt:
-date: 2019-03-29
+date: 
 venue: 'Frontiers in Earth Science'
 paperurl: 'https://doi.org/10.3389/feart.2019.00059'
 citation: 'Wilson, R. M., Neumann, R. B., Crossen, K. B., Raab, N. M., <b>Hodgkins, S. B.</b>, Saleska, S. R., Bolduc, B., Woodcroft, B. J., Tyson, G. W., Chanton, J. P., &amp; Rich, V. I. (2019). Microbial community analyses inform geochemical reaction network models for predicting pathways of greenhouse gas production. <i>Front. Earth Sci.</i>, <i>7</i>, 59.'
