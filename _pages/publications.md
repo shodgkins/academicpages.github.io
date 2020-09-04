@@ -10,7 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+{% include group-by-array collection=site.publications field="grouping" %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for group in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  {% for post in posts reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}

@@ -1,9 +1,10 @@
 ---
 title: "Microbial network, phylogenetic diversity and community membership in the active layer across a permafrost thaw gradient"
 collection: publications
-permalink: /publication/0-2017-06-02-microbial-network-diversity
+permalink: /publication/2017-06-02-microbial-network-diversity
 excerpt:
 date: 2017-06-02
+grouping: '2'
 venue: 'Environmental Microbiology'
 paperurl: 'https://doi.org/10.1111/1462-2920.13809'
 citation: 'Mondav, R., McCalley, C. K., <b>Hodgkins, S. B.</b>, Frolking, S., Saleska, S. R., Rich, V. I., Chanton, J. P., &amp; Crill, P. M. (2017). Microbial network, phylogenetic diversity and community membership in the active layer across a permafrost thaw gradient. <i>Environ. Microbiol.</i>, <i>19</i>(8), 3201–3218.'

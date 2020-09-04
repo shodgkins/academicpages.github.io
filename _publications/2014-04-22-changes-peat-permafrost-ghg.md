@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2014-04-22-changes-peat-permafrost-ghg
 excerpt:
 date: 2014-04-22
+grouping: '1'
 venue: 'Proceedings of the National Academy of Sciences of the United States of America'
 paperurl: 'https://doi.org/10.1073/pnas.1314641111'
 citation: '<b>Hodgkins, S. B.</b>, Tfaily, M. M., McCalley, C. K., Logan, T. A., Crill, P. M., Saleska, S. R., Rich, V. I., &amp; Chanton, J. P. (2014). Changes in peat chemistry associated with permafrost thaw increase greenhouse gas production. <i>Proc. Natl. Acad. Sci. USA</i>, <i>111</i>(16), 5819–5824.'

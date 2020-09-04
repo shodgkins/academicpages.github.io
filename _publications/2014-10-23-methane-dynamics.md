@@ -1,9 +1,10 @@
 ---
 title: "Methane dynamics regulated by microbial community response to permafrost thaw"
 collection: publications
-permalink: /publication/0-2014-10-23-methane-dynamics
+permalink: /publication/2014-10-23-methane-dynamics
 excerpt:
 date: 2014-10-23
+grouping: '2'
 venue: 'Nature'
 paperurl: 'https://doi.org/10.1038/nature13798'
 citation: 'McCalley, C. K., Woodcroft, B. J., <b>Hodgkins, S. B.</b>, Wehr, R. A., Kim, E.-H., Mondav, R., Crill, P. M., Chanton, J. P., Rich, V. I., Tyson, G. W., &amp; Saleska, S. R. (2014). Methane dynamics regulated by microbial community response to permafrost thaw. <i>Nature</i>, <i>514</i>(7523), 478–481.'

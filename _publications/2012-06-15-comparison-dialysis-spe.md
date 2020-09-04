@@ -1,9 +1,10 @@
 ---
 title: "Comparison of dialysis and solid-phase extraction for isolation and concentration of dissolved organic matter prior to Fourier transform ion cyclotron resonance mass spectrometry"
 collection: publications
-permalink: /publication/0-2012-06-15-comparison-dialysis-spe
+permalink: /publication/2012-06-15-comparison-dialysis-spe
 excerpt:
 date: 2012-06-15
+grouping: '2'
 venue: 'Analytical and Bioanalytical Chemistry'
 paperurl: 'https://doi.org/10.1007/s00216-012-6120-6'
 citation: 'Tfaily, M. M., <b>Hodgkins, S.</b>, Podgorski, D. C., Chanton, J. P., &amp; Cooper, W. T. (2012). Comparison of dialysis and solid-phase extraction for isolation and concentration of dissolved organic matter prior to Fourier transform ion cyclotron resonance mass spectrometry. <i>Anal. Bioanal. Chem.</i>, <i>404</i>(2), 447–457.'

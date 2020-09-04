@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2018-09-07-latitudinal-trends-ftir
 excerpt:
 date: 2018-09-07
+grouping: '1'
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-018-06050-2'
 citation: '<b>Hodgkins, S. B.</b>, Richardson, C. J., Dommain, R., Wang, H., Glaser, P. H., Verbeke, B., Winkler, B. R., Cobb, A. R., Rich, V. I., Missilmani, M., Flanagan, N., Ho, M., Hoyt, A. M., Harvey, C. F., Vining, S. R., Hough, M. A., Moore, T. R., Richard, P. J. H., De La Cruz, F. B., Toufaily, J., Hamdan, R., Cooper, W. T., &amp; Chanton, J. P. (2018). Tropical peatland carbon storage linked to global latitudinal trends in peat recalcitrance. <i>Nat. Commun.</i>, <i>9</i>(1), 3640.'

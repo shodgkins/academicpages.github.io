@@ -1,9 +1,10 @@
 ---
 title: "Methanotrophy across a natural permafrost thaw environment"
 collection: publications
-permalink: /publication/0-2018-06-28-methanotrophy
+permalink: /publication/2018-06-28-methanotrophy
 excerpt:
 date: 2018-06-28
+grouping: '2'
 venue: 'The ISME Journal'
 paperurl: 'https://doi.org/10.1038/s41396-018-0065-5'
 citation: 'Singleton, C. M., McCalley, C. K., Woodcroft, B. J., Boyd, J. A., Evans, P. N., <b>Hodgkins, S. B.</b>, Chanton, J. P., Frolking, S., Crill, P. M., Saleska, S. R., Rich, V. I., &amp; Tyson, G. W. (2018). Methanotrophy across a natural permafrost thaw environment. <i>ISME J.</i>, <i>12</i>, 2544–2558.'

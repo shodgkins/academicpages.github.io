@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2020-08-13-the-isogenie-database
 excerpt:
 date: 2020-08-13
+grouping: '1'
 venue: 'PeerJ'
 paperurl: 'https://doi.org/10.7717/peerj.9467'
 citation: 'Bolduc, B.*, <b>Hodgkins, S. B.*</b>, Varner, R. K., Crill, P. M., McCalley, C. K., Chanton, J. P., Tyson, G. W., Riley, W. J., Palace, M., Duhaime, M. B., Hough, M. A., IsoGenie Project Coordinators, IsoGenie Project Team, A2A Project Team, Saleska, S. R., Sullivan, M. B., &amp; Rich, V. I. (2020). The IsoGenie database: an interdisciplinary data management solution for ecosystems biology and environmental research. <i>PeerJ</i>, <i>8</i>, e9467. *These authors contributed equally.'

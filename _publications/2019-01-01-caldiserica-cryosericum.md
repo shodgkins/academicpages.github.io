@@ -1,9 +1,10 @@
 ---
 title: "Discovery and ecogenomic context of a global Caldiserica-related phylum active in thawing permafrost, <i>Candidatus</i> Cryosericota phylum nov., <i>Ca.</i> Cryosericia class nov., <i>Ca.</i> Cryosericales ord. nov., Ca. Cryosericaceae fam. nov., comprising the four species Cryosericum septentrionale gen. nov. sp. nov., <i>Ca.</i> C. hinesii sp. nov., <i>Ca.</i> C. odellii sp. nov., <i>Ca.</i> C. terrychapinii sp. nov."
 collection: publications
-permalink: /publication/0-2019-01-01-caldiserica-cryosericum
+permalink: /publication/2019-01-01-caldiserica-cryosericum
 excerpt:
 date: 2019-01-01
+grouping: '2'
 venue: 'Systematic and Applied Microbiology'
 paperurl: 'https://doi.org/10.1016/j.syapm.2018.12.003'
 citation: 'Martinez, M. A., Woodcroft, B. J., Ignacio Espinoza, J. C., Zayed, A. A., Singleton, C. M., Boyd, J. A., Li, Y.-F., Purvine, S., Maughan, H., <b>Hodgkins, S. B.</b>, Anderson, D., Sederholm, M., Temperton, B., Bolduc, B., IsoGenie Project Coordinators, Saleska, S. R., Tyson, G. W., &amp; Rich, V. I. (2019). Discovery and ecogenomic context of a global Caldiserica-related phylum active in thawing permafrost, <i>Candidatus</i> Cryosericota phylum nov., <i>Ca.</i> Cryosericia class nov., <i>Ca.</i> Cryosericales ord. nov., Ca. Cryosericaceae fam. nov., comprising the four species Cryosericum septentrionale gen. nov. sp. nov., <i>Ca.</i> C. hinesii sp. nov., <i>Ca.</i> C. odellii sp. nov., <i>Ca.</i> C. terrychapinii sp. nov. <i>Syst. Appl. Microbiol.</i>, <i>42</i>(1), 54–66.'

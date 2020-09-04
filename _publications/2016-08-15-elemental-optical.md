@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2016-08-15-elemental-optical
 excerpt:
 date: 2016-08-15
+grouping: '1'
 venue: 'Geochimica et Cosmochimica Acta'
 paperurl: 'https://doi.org/10.1016/j.gca.2016.05.015'
 citation: '<b>Hodgkins, S. B.</b>, Tfaily, M. M., Podgorski, D. C., McCalley, C. K., Saleska, S. R., Crill, P. M., Rich, V. I., Chanton, J. P., &amp; Cooper, W. T. (2016). Elemental composition and optical properties reveal changes in dissolved organic matter along a permafrost thaw chronosequence in a subarctic peatland. <i>Geochim. Cosmochim. Acta</i>, <i>187</i>, 123–140.'

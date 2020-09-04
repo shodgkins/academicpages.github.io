@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-soil-incubations
 excerpt:
 date: 2015-10-01
+grouping: '1'
 venue: 'Biogeochemistry'
 paperurl: 'http://dx.doi.org/10.1007/s10533-015-0142-z'
 citation: '<b>Hodgkins, S. B.</b>, Chanton, J. P., Langford, L. C., McCalley, C. K., Saleska, S. R., Rich, V. I., Crill, P. M., &amp; Cooper, W. T. (2015). Soil incubations reproduce field methane dynamics in a subarctic wetland. <i>Biogeochemistry</i>, <i>126</i>(1), 241–249.'

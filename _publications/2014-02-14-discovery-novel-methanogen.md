@@ -1,9 +1,10 @@
 ---
 title: "Discovery of a novel methanogen prevalent in thawing permafrost"
 collection: publications
-permalink: /publication/0-2014-02-14-discovery-novel-methanogen
+permalink: /publication/2014-02-14-discovery-novel-methanogen
 excerpt:
 date: 2014-02-14
+grouping: '2'
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/ncomms4212'
 citation: 'Mondav, R.*, Woodcroft, B. J.*, Kim, E.-H., McCalley, C. K., <b>Hodgkins, S. B.</b>, Crill, P. M., Chanton, J., Hurst, G. B., VerBerkmoes, N. C., Saleska, S. R., Hugenholtz, P., Rich, V. I., &amp; Tyson, G. W. (2014). Discovery of a novel methanogen prevalent in thawing permafrost. <i>Nat. Commun.</i>, <i>5</i>, 3212. *These authors contributed equally.'

@@ -1,9 +1,10 @@
 ---
 title: "Host-linked soil viral ecology along a permafrost thaw gradient"
 collection: publications
-permalink: /publication/0-2018-07-16-host-linked-viral-ecology
+permalink: /publication/2018-07-16-host-linked-viral-ecology
 excerpt:
 date: 2018-07-16
+grouping: '2'
 venue: 'Nature Microbiology'
 paperurl: 'https://doi.org/10.1038/s41564-018-0190-y'
 citation: 'Emerson, J. B., Roux, S., Brum, J. R., Bolduc, B., Woodcroft, B. J., Jang, H. B., Singleton, C. M., Solden, L. M., Naas, A. E., Boyd, J. A., <b>Hodgkins, S. B.</b>, Wilson, R. M., Trubl, G., Li, C., Frolking, S., Pope, P. B., Wrighton, K. C., Crill, P. M., Chanton, J. P., Saleska, S. R., Tyson, G. W., Rich, V. I., &amp; Sullivan, M. B. (2018). Host-linked soil viral ecology along a permafrost thaw gradient. <i>Nat. Microbiol.</i>, <i>3</i>(8), 870–880.'

@@ -1,9 +1,10 @@
 ---
 title: "Genome-centric view of carbon processing in thawing permafrost"
 collection: publications
-permalink: /publication/0-2018-07-16-genome-centric-carbon-processing
+permalink: /publication/2018-07-16-genome-centric-carbon-processing
 excerpt:
 date: 2018-07-16
+grouping: '2'
 venue: 'Nature'
 paperurl: 'https://doi.org/10.1038/s41586-018-0338-1'
 citation: 'Woodcroft, B. J.*, Singleton, C. M.*, Boyd, J. A., Evans, P. N., Emerson, J. B., Zayed, A. A. F., Hoelzle, R. D., Lamberton, T. O., McCalley, C. K., <b>Hodgkins, S. B.</b>, Wilson, R. M., Purvine, S. O., Nicora, C. D., Li, C., Frolking, S., Chanton, J. P., Crill, P. M., Saleska, S. R., Rich, V. I., &amp; Tyson, G. W. (2018). Genome-centric view of carbon processing in thawing permafrost. <i>Nature</i>, <i>560</i>(7716), 49–54. *These authors contributed equally.'
